@@ -775,7 +775,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"Die Cogneon Akademie in der virtuellen Welt"
         }, 
         {
          "name":"mapImage",
@@ -785,12 +785,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+         "value":"https:\/\/cogneon.de"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Cogneon Akaverse"
         }, 
         {
          "name":"script",
