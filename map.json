@@ -302,7 +302,7 @@
                 {
                  "name":"openWebsiteWidth",
                  "type":"string",
-                 "value":"25"
+                 "value":"50"
                 }],
          "type":"tilelayer",
          "visible":true,
