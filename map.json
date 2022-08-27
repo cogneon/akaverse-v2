@@ -78,7 +78,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/somafm.com\/groovesalad256.pls"
+                 "value":"https:\/\/somafm.com\/m3u\/groovesalad256.m3u"
                 }],
          "type":"tilelayer",
          "visible":true,
